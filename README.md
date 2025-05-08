@@ -12,5 +12,6 @@ The goal of this project is to estimate the geometry and refractive index of nan
 ## Repository Structure
 - `README.md`: This file
 - `notebooks/`: Jupyter Notebooks for experiments (training, evaluation, plots)
+- 'datasets' : Optical response data and geometry data (actual values)
 
 
